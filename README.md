@@ -25,21 +25,24 @@ Migración de un sistema bancario legacy escrito en C++ a una arquitectura orien
 
 ## Estructura del Repositorio
 /Lab3_Bancario_HannerContreras/
+```
+/Lab3_Bancario_HannerContreras/
 ├── README.md
-├── /cpp/
-│ └── SistemaBancarioLegacy.cpp
-├── /java/
-│ └── /src/
-│ └── /bancario/
-│ ├── CuentaBancaria.java
-│ ├── CuentaAhorros.java
-│ ├── CuentaCorriente.java
-│ ├── SaldoInsuficienteException.java
-│ ├── RegistroAuditoriaBancaria.java
-│ └── Main.java
-├── /docs/
-│ └── Informe_Lab3_HannerContreras.pdf
-└── auditoria.log (generado al ejecutar)
+├── cpp/
+│   └── SistemaBancarioLegacy.cpp
+├── java/
+│   └── src/
+│       └── bancario/
+│           ├── CuentaBancaria.java
+│           ├── CuentaAhorros.java
+│           ├── CuentaCorriente.java
+│           ├── SaldoInsuficienteException.java
+│           ├── RegistroAuditoriaBancaria.java
+│           └── Main.java
+├── docs/
+│   └── Informe_Lab3_HannerContreras.pdf
+└── auditoria.log  (generado al ejecutar)
+```
 
 
 ---
