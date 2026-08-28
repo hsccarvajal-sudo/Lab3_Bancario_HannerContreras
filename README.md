@@ -49,6 +49,9 @@ Migración de un sistema bancario legacy escrito en C++ a una arquitectura orien
 
 ## Cómo Compilar y Ejecutar
 
+### Requisitos
+- JDK 21 o superior.
+
 ### Compilar:
 ```bash
 javac java/src/bancario/*.java
